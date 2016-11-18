@@ -24,7 +24,7 @@ footer{
 }
 /*-------------LA CABESERA------*/
 header button{
-    margin-top:50px; ;
+    margin-top:70px; ;
     padding: 12px;
     width: 10em;
     background: orange;
@@ -36,16 +36,47 @@ header button{
     text-align: center;
     margin-top:50px;
 }
-.yo a{
+header a{
     text-decoration: none;
     color: white;
     margin: 20px;
     font-size: 25px;
 }
 .caja{
+    position: relative;
+    right:55px ;
   margin: 200px;
   text-align: center;
 }
+/*-------------CUERPO-----SECCION---*/
+ .caja2 {
+    width: 400px;
+    margin-left: 60px;
+    background-color: white;
+}
+.dentro{
+    position: relative;
+    top: 20px;
+    margin: 50px; 
+}
+.caja2 h2{
+    width: 300px;
+    margin-left: 16px;
+}
+.caja2 p{
+    width: 360px;
+    margin-left: 30px;
+}
+.caja2 button{
+    width: 11em;
+    padding: 8px;
+    background-color: orange;
+   margin-left: 110px;
+}
+
+
+
+
 
 
 
