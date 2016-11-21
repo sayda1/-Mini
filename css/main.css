@@ -1,7 +1,5 @@
 /* Inserte su codigo aqui */
-*{
-    outline: 1px solid red;
-}
+
 /*-------------------GLOBAL---------*/
 header{
     background-color: #FFDB29;
@@ -11,6 +9,10 @@ header{
 
 section{
     background-color:#F2F2F2;
+}
+section .col-md-6 {
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 .dentro{
     width: 300px;
@@ -42,6 +44,7 @@ header a{
     margin: 20px;
     font-size: 25px;
 }
+
 .caja{
     position: relative;
     right:55px ;
@@ -59,6 +62,13 @@ header a{
     top: 20px;
     margin: 50px; 
 }
+.dentro span{
+   position: relative;
+    top: 140px;
+    left: 110px;
+    font-size:20px; 
+    
+}
 .caja2 h2{
     width: 300px;
     margin-left: 16px;
@@ -72,6 +82,13 @@ header a{
     padding: 8px;
     background-color: orange;
    margin-left: 110px;
+    margin-bottom: 15px;
+}
+/*---------pie-- de pagina  -----*/
+footer{
+   margin-left: ;
+    padding: 35px;
+    padding-left: 90px;
 }
 
 
