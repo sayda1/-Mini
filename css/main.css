@@ -1,6 +1,9 @@
 /* Inserte su codigo aqui */
 
 /*-------------------GLOBAL---------*/
+button{
+    font-family:Roboto;
+}
 header{
     background-color: #FFDB29;
     height: 650px;
@@ -21,7 +24,7 @@ section .col-md-6 {
 }
 
 footer{
-   background:black; 
+   background:#656665; 
     color: white;
 }
 /*-------------LA CABESERA------*/
